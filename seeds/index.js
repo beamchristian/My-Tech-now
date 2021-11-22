@@ -23,4 +23,4 @@ const sequelize = require('../config/connection');
 //   process.exit(0);
 // };
 
-seedAll();
+// seedAll();
