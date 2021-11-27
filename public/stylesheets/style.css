@@ -9,7 +9,7 @@ html {
   margin: 0;
   font-family: sans-serif;
   color: #333;
-  background-color: #e9eadb;
+  background-color: #d9f2d9;
 }
 
 a {
@@ -24,7 +24,7 @@ a:hover {
 }
 
 nav a {
-  color: #e9eadb;
+  color: #d9f2d9;
 }
 
 button {
@@ -93,7 +93,7 @@ header h1 {
   font-size: 2em;
   font-weight: 900;
   padding: 5px 25px;
-  background-color: #e9eadb;
+  background-color: #d9f2d9;
   border-radius: 5px;
   box-shadow: 5px 5px #a9a9a9;
 }
@@ -109,7 +109,7 @@ main {
   padding: 0;
   cursor: pointer;
   text-decoration: none;
-  color: #e9eadb;
+  color: #d9f2d9;
   font-size: 100%;
   font-weight: bold;
   transition: color 0.1s;
